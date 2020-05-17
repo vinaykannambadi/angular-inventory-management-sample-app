@@ -27,8 +27,8 @@ products : Product[];
       new Product(
         'NICEHAT',
         'A Nice Black Hat',
-        '/assets/images/products/black-hat.jpg',
-        ['Men', 'Accessories', 'Hats'],
+        '/assets/images/products/luminous-shoe.jpg',
+        ['Men', 'Accessories', 'Shoes'],
         29.99)
 
       ];
